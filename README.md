@@ -1,6 +1,6 @@
 - Olá, Meu nome é Pedro Carvalho
 - Curso Engenharia Eletrônica e de Computação na UFRJ
-- Atualmente estou no 2º período
+- Atualmente estou no 3º período
 - Meus principais interesse são na área de robótica, desenvolvimento web e análise de dados
 - Estou me desenvolvendo no momento em desenvolvimento web
 - Possuo um conhecimento razoável de Python e C++
